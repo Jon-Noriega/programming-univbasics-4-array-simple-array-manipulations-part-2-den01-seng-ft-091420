@@ -1,3 +1,3 @@
-def using_concat(arrayone,arraytwo) do
+def using_concat(arrayone,arraytwo)
 arrayone.concat(arraytwo)
 end
